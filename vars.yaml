@@ -1,0 +1,7 @@
+---
+groupId: node_grp
+userId: node_user_1
+version: "1.0.0-rc.0"
+serviceName: "node_exporter"
+exec_command: /usr/local/bin/node_exporter
+...
